@@ -1,0 +1,28 @@
+.cardscol{
+    /* height: 200px; */
+}
+.card{
+    /* height: 75%; */
+    border: solid 2px purple;
+    /* margin: 10px; */
+
+}
+
+.card-header{
+    
+    border-bottom: solid 0.5px purple;
+}
+
+.button {
+    color: purple;
+    border: solid 2px purple;
+    background-color: #ffffff;
+}
+ 
+.button:hover {
+    color: #ffffff;
+    background-color: #AA66CC;
+    border: solid 2px purple;
+    
+}
+

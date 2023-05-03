@@ -1,0 +1,57 @@
+{
+
+    "heading":"Success Criterion 1.2.3: Audio Description or Media Alternative (Prerecorded) (Level A)",
+    "description": {
+        "text" : "The main motive behind this success criteria is to provide people who are blind or visually impaired access to all the visual information in a proper synchronization of the video. This success criteria have two methods to achieve it, either of it can be followed according to the need. The two approaches are as follows:",
+        "list" : [
+            {
+                "text" : "Provide audio description of the video content"
+            },
+            {
+                "text" : "Provide both audio and visual both description in text form"
+            }
+        ]
+    },
+    "subHeadings":[
+        {
+            "head":"Provide audio description of the video content:",
+            "text":"The audio description augments the audio portion of the presentation with the information demanded when the videotape portion isn't available. During pauses in dialogue, audio description provides information about characters, scene changes, and on- screen textbook that are important and aren't described or spoken in the main soundtrack."
+        },
+        {
+            "head":"Provide both audio and visual both description in text form:",
+            "text":"Full descriptions are handed of all visual information, including visual environment, conduct and expression of actors and any other visual material. And henceforth, a better version of media is provided to the audience which is complete presentation of the synchronized media which is better than audio description alone."
+
+        }
+    ],
+    "examples":[
+        {"text":"Success case:A movie is played with all the detailed description of that part for example the dialogues along with the laughter or crying is explained as well."},
+        {"text":"Failure case: No description is provided for the media so the people who are visually impaired won’t be able to understand perceive what’s happening."}
+    ],
+    "Target Audience":"People who are blind or visually impaired are the main target audience of this success criteria.",
+    "Benefits From Guideline Fulfilment":"People who are blind or visually impaired are the main target audience of this success criteria.",
+    "Reference":"https://www.w3.org/WAI/WCAG21/Understanding/audio-description-or-media-alternative-prerecorded.html",
+    "Recommended Scripting Solutions":"By providing audio track that includes audio description.Placing a link to the alternative for time-based media immediately next to the non-text content"
+,
+"reme":[
+    {
+        "head":"Accordion",
+        "desc":" An accordion is a list of headers that hide or reveal additional content when selected.",
+        "link":"Accordion"
+    },
+    {
+        "head":"Alert",
+        "desc":" A message with important, and usually time-sensitive, information.",
+        "link":"Alert"
+    },
+    {
+        "head":"Button",
+        "desc":"A button draws attention to important actions with a large selectable surface.",
+        "link":"Button"
+    },
+    {
+        "head":"Carousel",
+        "desc":"A button draws attention to important actions with a large selectable surface.",
+        "link":"Carousel"
+    }
+]
+}

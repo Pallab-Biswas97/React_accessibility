@@ -1,0 +1,35 @@
+.button{
+    margin-top: 40px;
+    padding: 4px 8px;
+    width: 130px;
+    background-color:#ffffff ;
+    color: #0070ad;
+    border-radius: 10px;
+    border: #0070ad solid 1.5px;
+   
+}
+.button:hover{
+    background-color: #0070ad;
+    color: #ecf0f1;
+}
+
+.article_h{
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 30px;
+    color: #4d4d4d;
+  }
+
+
+
+.sub_heading {
+  margin-top: 20px;
+  padding: 3px;
+  padding-left: 6px;
+  background-color: #ebf4f8;
+  font-size: 1.2em;
+}
+
+.top_padding{
+    margin-top: 73px;
+}

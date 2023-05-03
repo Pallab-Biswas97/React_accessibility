@@ -1,0 +1,46 @@
+.navbar{
+    padding: 15px;
+    padding-left: 50px;
+    background-color: #e2edf3a1;
+    border-bottom:0.1px solid #0070ad ;
+    -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+
+}
+
+
+.links ul{
+    margin-left: 300px;
+    color: #0070ad;
+
+    
+}
+.links ul li{
+   padding-right: 15px;
+    
+    
+}
+.links ul li a{
+    color: #0070ad; 
+}
+.links ul li a:hover{
+    color: #0685c9; 
+    font-size: 18.1px;
+    text-decoration: underline;
+}
+.nav-item{
+    font-size: 18px;
+    font-weight: 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.form1{
+    border: 1px solid #0070ad;
+    border-radius: 4px;
+    width: 90%;
+   
+
+  }
+  form{
+    margin-left: 40px;
+  }
